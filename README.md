@@ -8,3 +8,6 @@ To use the script just clone the repo, create an enviroment, pip install request
 Or use the specific Id of market to know its spread.
 > python wrapper.py [Market Id]
 
+Example
+> python wrapper.py BTC-COP
+
